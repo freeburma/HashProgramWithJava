@@ -4,10 +4,11 @@ This program can compile Java Development Kit Compiler or OpenJDK. This can hash
 This can be hashable both text and file. 
 
 How to compile 
-  $ javac <FileName>.java
+  $ javac CheckSums.java
+
   
 How to run: 
-  $ java <FileName>
+  $ java CheckSums
   $ Then enter "TEXT" or "File Path: Eg. C:/temp.txt"
   
   Then you will see the Hash outputs for associate with your input.
